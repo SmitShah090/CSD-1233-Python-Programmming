@@ -1,0 +1,1 @@
+Python is a general-purpose interpreted high-level programming language that was created in the Netherlands by the Dutch programmer Guido Van Rossum in 1991.
